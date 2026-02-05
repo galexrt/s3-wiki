@@ -37,3 +37,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ## License
 
 [EUPL-1.2 license](LICENSE)
+
+- Favicon/Logo is "Cloudy" from [Lucide icon set](https://lucide.dev/).
